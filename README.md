@@ -1,7 +1,8 @@
 **Hey There! Welcome to my GitHub** 👋
 
 
-**Happy to see you here!** 😍 <br> This is Muhammad Faizan Tariq , I am a Tech Evangelist 💻, Interested in all the cutting-edge technologies.
+**Happy to see you here!** 😍 <br> This is Muhammad Faizan Tariq , I am a Tech Evangelist 💻, Interested in all the cutting-edge technologies. I enjoy taking complex problems and turning them into simple and beautiful interface designs and I also love the logic and structure of coding and always try to write elegant and efficient code whether it be HTML,CSS, JS or upcoming/new technology. 
+
 <br>
 <img align="right" alt="GIF" src="ahmed.gif" width="500" height="320" />
 <br>
