@@ -1,25 +1,44 @@
 **Hey There! Welcome to my GitHub** 👋
 
 
-**Happy to see you here!**  <br> This is Muhammad Faizan Tariq , I am a Tech Evangelist 💻, Interested in all the cutting-edge technologies. I enjoy taking complex problems and turning them into simple and beautiful interface designs and I also love the logic and structure of coding and always try to write elegant and efficient code whether it be HTML,CSS, JS or upcoming/new technology. 
+**Happy to see you here!**  <br> I'm Muhammad Faizan Tariq, a Tech Evangelist 💻 with a passion for cutting-edge technologies. I derive immense satisfaction from simplifying complex problems into elegant user interface designs. I deeply value the logic and structure of coding, consistently striving to write elegant and efficient code in languages like JavaScript, TypeScript, Python, and other emerging technologies. Beyond building SaaS products, I excel in analyzing their business goals.
 
+---
 <br>
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 <br>
 
-
 # Tools & Technologies:
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/database/database.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
+<details>
+  <summary><b>Frontend Technologies: </b></summary>
+  <br/>
+
+  [![HTML5](https://img.shields.io/badge/HTML5-%23e34f26?style=for-the-badge&logoColor=%23FFF&logo=html5)](https://html.spec.whatwg.org/multipage/)
+  [![CSS3](https://img.shields.io/badge/CSS3-%23264de4?style=for-the-badge&logoColor=%23FFF&logo=css3)](https://www.w3.org/TR/CSS/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f?style=for-the-badge&logoColor=%23333&logo=javascript)](https://www.javascript.com/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://www.react.dev/)
+  [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com//)
+  [![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+  [![React Router Dom](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
+</details>
+
+<details>
+  <summary><b>Backend Technologies: </b></summary>
+  <br/>
+
+</details>
+
+<details>
+  <summary><b>:card_file_box:&nbsp;&nbsp;Database Systems</b></summary>
+  <br/>
+
+  [![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=for-the-badge&logoColor=%23fff&logo=firebase)](https://firebase.google.com/)
+  [![Supabase](https://img.shields.io/badge/Supabase-%23249361?style=for-the-badge&logoColor=%23fff&logo=supabase)](https://supabase.com/)
+  [![MariaDB](https://img.shields.io/badge/MariaDB-%23E9CEBD?style=for-the-badge&logoColor=%23000&logo=mariadb)](https://mariadb.org/)
+  [![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logoColor=%23FFF&logo=sqlite)](https://www.sqlite.org/)
+</details>
+
 
 <br>
 
