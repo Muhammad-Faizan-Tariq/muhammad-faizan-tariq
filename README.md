@@ -10,77 +10,76 @@
 
 # Tools & Technologies:
 <details>
-  <summary><b>Frontend Technologies: </b></summary>
+  <summary><b>Frontend Technologies 🌐 </b></summary>
   <br/>
 
-  [![HTML5](https://img.shields.io/badge/HTML5-%23e34f26?style=for-the-badge&logoColor=%23FFF&logo=html5)](https://html.spec.whatwg.org/multipage/)
-  [![CSS3](https://img.shields.io/badge/CSS3-%23264de4?style=for-the-badge&logoColor=%23FFF&logo=css3)](https://www.w3.org/TR/CSS/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f?style=for-the-badge&logoColor=%23333&logo=javascript)](https://www.javascript.com/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://www.react.dev/)
-  [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com//)
-  [![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
-  [![React Router Dom](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
+![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat-square)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square)
+![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat-square)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square)
 </details>
 
 <details>
-  <summary><b>Styling/User Interface: </b></summary>
+  <summary><b>Styling/User Interface 🎨 </b></summary>
   <br/>
-
-  [![HTML5](https://img.shields.io/badge/HTML5-%23e34f26?style=for-the-badge&logoColor=%23FFF&logo=html5)](https://html.spec.whatwg.org/multipage/)
-  [![CSS3](https://img.shields.io/badge/CSS3-%23264de4?style=for-the-badge&logoColor=%23FFF&logo=css3)](https://www.w3.org/TR/CSS/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f?style=for-the-badge&logoColor=%23333&logo=javascript)](https://www.javascript.com/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://www.react.dev/)
-  [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com//)
-  [![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
-  [![React Router Dom](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
-</details>
+  
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
+![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat-square)
+![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=flat-square)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square)
+  
+ </details>
 
 
 
 <details>
-  <summary><b>Backend Technologies: </b></summary>
+  <summary><b>Backend Technologies ⚙️ </b></summary>
   <br/>
+  
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)
+![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square)
+![JSON Web Tokens Badge](https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=flat-square)
+![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat-square)
+</details>
+
+<details>
+  <summary><b>Database Systems 🛢️ </b></summary>
+  <br/>
+
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
+![Mongoose Badge](https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=fff&style=flat-square)
+![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat-square)
+</details>
+
+<details>
+  <summary><b>Languages 💻 </b></summary>
+  <br/>
+  
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
 
 </details>
 
 <details>
-  <summary><b>:card_file_box:&nbsp;&nbsp;Database Systems</b></summary>
+  <summary><b>Platforms and tools 🔧 </b></summary>
   <br/>
-
-  [![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=for-the-badge&logoColor=%23fff&logo=firebase)](https://firebase.google.com/)
-  [![Supabase](https://img.shields.io/badge/Supabase-%23249361?style=for-the-badge&logoColor=%23fff&logo=supabase)](https://supabase.com/)
-  [![MariaDB](https://img.shields.io/badge/MariaDB-%23E9CEBD?style=for-the-badge&logoColor=%23000&logo=mariadb)](https://mariadb.org/)
-  [![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logoColor=%23FFF&logo=sqlite)](https://www.sqlite.org/)
-</details>
-
-<details>
-  <summary><b>Languagues: </b></summary>
-  <br/>
-
-  [![HTML5](https://img.shields.io/badge/HTML5-%23e34f26?style=for-the-badge&logoColor=%23FFF&logo=html5)](https://html.spec.whatwg.org/multipage/)
-  [![CSS3](https://img.shields.io/badge/CSS3-%23264de4?style=for-the-badge&logoColor=%23FFF&logo=css3)](https://www.w3.org/TR/CSS/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f?style=for-the-badge&logoColor=%23333&logo=javascript)](https://www.javascript.com/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://www.react.dev/)
-  [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com//)
-  [![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
-  [![React Router Dom](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
-</details>
-
-<details>
-  <summary><b>Platforms and tools: </b></summary>
-  <br/>
-
-  [![HTML5](https://img.shields.io/badge/HTML5-%23e34f26?style=for-the-badge&logoColor=%23FFF&logo=html5)](https://html.spec.whatwg.org/multipage/)
-  [![CSS3](https://img.shields.io/badge/CSS3-%23264de4?style=for-the-badge&logoColor=%23FFF&logo=css3)](https://www.w3.org/TR/CSS/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f?style=for-the-badge&logoColor=%23333&logo=javascript)](https://www.javascript.com/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://www.react.dev/)
-  [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com//)
-  [![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
-  [![React Router Dom](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
+  
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)
+![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=flat-square)
+![Cloudinary Badge](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff&style=flat-square)
+![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat-square)
+![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat-square)
 </details>
 
 
